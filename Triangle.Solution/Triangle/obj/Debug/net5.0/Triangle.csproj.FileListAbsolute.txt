@@ -1,0 +1,12 @@
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.deps.json
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.dll
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/bin/Debug/net5.0/ref/Triangle.dll
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.pdb
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.csproj.AssemblyReference.cache
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.AssemblyInfoInputs.cache
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.AssemblyInfo.cs
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.csproj.CoreCompileInputs.cache
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.dll
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/obj/Debug/net5.0/ref/Triangle.dll
+/Users/Matt/Desktop/Triangle-Tracker2-Two-Fast/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.pdb
