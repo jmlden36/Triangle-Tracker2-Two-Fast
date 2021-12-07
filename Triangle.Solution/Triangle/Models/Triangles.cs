@@ -32,5 +32,13 @@ namespace TriangleStuff
       }
       return false;
     }
+    public bool isEquilateral(){
+      if(this.SideA == this.SideB && this.SideB == this.SideC)
+      {
+        return true;
+      }
+      return false;
+    }
+    
   }
 }
