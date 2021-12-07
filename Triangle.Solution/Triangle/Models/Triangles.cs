@@ -39,6 +39,19 @@ namespace TriangleStuff
       }
       return false;
     }
-    
+
+    public bool isIsosceles(){
+      if((this.SideA == this.SideB && this.SideC != this.SideA)||(this.SideB == this.SideC && this.SideA != this.SideB)||(this.SideC == this.SideA && this.SideB != this.SideC)){
+        return true;
+      }
+      return false;
+    }
+    public bool isScalene(){
+      if((this.SideA != this.SideB) && (this.SideB != this.SideC) && (this.SideC != this.SideA))
+      {
+        return true;
+      }
+      return false;
+    }
   }
 }
